@@ -11,7 +11,7 @@
 - 👯 I’m open to collaborating on *Open-source MERN projects*
 - 🤝 I’m exploring *AI integration in modern web systems*
 - 💬 Ask me about *Full Stack Development, APIs, and System Design*
-- 📫 How to reach me: *ravichavda9823@gmail.com*
+- 📫 How to reach me: *jigarchauhan9958@gmail.com*
 - ⚡ Fun fact: I turn coffee ☕ into scalable web applications 🚀
 
 
