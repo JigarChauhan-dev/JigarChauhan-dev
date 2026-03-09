@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" 
-       alt="MERN Stack Banner"
-       width="100%"
-        height="300"
-    />
-</p>
 
 <h1 align="center">Hi 👋, I'm Jigar Chauhan</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications</h3>
