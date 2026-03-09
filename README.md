@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png" 
+  <img src="[https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png](https://miro.medium.com/v2/resize:fit:1400/1*03kDs9-4_28kPfncpSWI8A.jpeg)" 
        alt="MERN Stack Banner"
        width="100%"
         height="300"
