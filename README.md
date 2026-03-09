@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png" 
+       alt="MERN Stack Banner"
+       width="100%"
+        height="300"
+    />
+</p>
 
 <h1 align="center">Hi 👋, I'm Jigar Chauhan</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
