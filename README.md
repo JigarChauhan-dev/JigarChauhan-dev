@@ -23,9 +23,9 @@ I am a passionate Full Stack Developer specializing in the MERN stack (MongoDB, 
 
 🤝 Interested in AI Integration in Web Applications
 
-🌐 Portfolio: https://portfolio-hn0u.onrender.com/
-
 💬 Ask me about MERN Stack, REST APIs, System Design
+
+🌐 Portfolio: https://portfolio-hn0u.onrender.com/
 
 📫 Reach me at jigarchauhan9958@gmail.com
 
