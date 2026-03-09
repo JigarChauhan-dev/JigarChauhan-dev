@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jigar Chauhan</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications</h3>
+<h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
