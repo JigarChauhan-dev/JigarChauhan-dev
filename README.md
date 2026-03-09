@@ -4,6 +4,16 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on *Full-stack web applications using the MERN stack*
+- 🌱 I’m currently learning *Next.js and advanced backend architecture*
+- 👯 I’m open to collaborating on *Open-source MERN projects*
+- 🤝 I’m exploring *AI integration in modern web systems*
+- 💬 Ask me about *Full Stack Development, APIs, and System Design*
+- 📫 How to reach me: *ravichavda9823@gmail.com*
+- ⚡ Fun fact: I turn coffee ☕ into scalable web applications 🚀
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jigar_chauhan___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jigar-chauhan-742917361/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jigar.chauhan.dev@gmail.com) 
