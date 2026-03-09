@@ -1,5 +1,15 @@
-# 💫 About Me:
-Entry-level MERN Stack Developer with hands-on experience in MongoDB, Express.js, React.js ,and Node.js through<br>academic and personal projects. Passionate about building user-friendly applications and continuously learning<br>modern technologies<br>
+<p align="center">
+  <img src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" 
+       alt="MERN Stack Banner"
+       width="100%"
+        height="300"
+    />
+</p>
+
+<h1 align="center">Hi 👋, I'm Jigar Chauhan</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications</h3>
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
 ## 🌐 Socials:
